@@ -1,6 +1,6 @@
 # Sprint2 Java - Projeto MyTrend
 
-![Programa](./Documentação/MyTrend.png)
+![Programa](https://drive.google.com/drive/my-drive?hl=pt-BR)
 
 - Acessar Link para vídeo do Projeto: https://www.youtube.com/watch?v=Pz85ywx5Fgc
 
