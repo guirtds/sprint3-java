@@ -1,6 +1,8 @@
 # Sprint2 Java - Projeto MyTrend
 
 ![Programa](https://drive.google.com/file/d/1C6q-Aq0Skd7hiuN0SNqTc_9Z5xoYhQHk/view?usp=drive_link)
+<img src="https://drive.google.com/file/d/1C6q-Aq0Skd7hiuN0SNqTc_9Z5xoYhQHk/view?usp=drive_link" alt="Texto Alternativo">
+
 
 - Acessar Link para vídeo do Projeto: https://www.youtube.com/watch?v=Pz85ywx5Fgc
 
